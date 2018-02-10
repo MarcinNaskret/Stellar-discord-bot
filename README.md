@@ -1,5 +1,11 @@
 # Stellar-discord-bot
 Simple discord bot for Stellar lumens giving information from coinmarketcap.
+-Price USD<br>
+-Price BTC<br>
+-Percent changes 1h,24h,7d<br>
+-Market Cap<br>
+-All Time High<br>
+-Volume 24h<br>
 <img src="https://image.ibb.co/maPxqn/stellar.png" alt="XLM Stellar Lumen" border="0"></a>
 
 To generate token id visit 
