@@ -1,13 +1,8 @@
-import discord
-from discord.ext import commands
-import coinmarketcap
-
+import discord,coinmarketcap,requests
 from bs4 import BeautifulSoup
-import requests
+from discord.ext import commands
 
 market = coinmarketcap.Market()
-
-
 
 coin_name = "stellar"
 coin = market.ticker(coin_name)
